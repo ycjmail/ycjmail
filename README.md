@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ycjmail
 - 👀 I’m interested in go,c++,rust
 - 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on network related job such as go web,cryptocurrency(bitcoin,ethereum)
+- 💞️ I’m looking to collaborate on network related job such as go web,mysql,k8s,cryptocurrency(bitcoin,ethereum)
 - 📫email:255116@qq.com
 
 <!---
